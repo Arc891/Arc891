@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<b>DevOps Engineer by day☀️ and 🌙</b>
+<b>DevOps Engineer by day☀️ and night🌙</b>
 
 - 🔭 I’m currently working as Pega Developer at [Anamata](https://www.anamata.nl)!
 - 🌱 I’m currently enriching my React and Kubernetes skills.
