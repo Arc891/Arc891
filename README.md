@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+<b>DevOps Engineer by day☀️ and 🌙</b>
+
+- 🔭 I’m currently working as Pega Developer at [Anamata](https://www.anamata.nl)!
+- 🌱 I’m currently enriching my React and Kubernetes skills.
+- 💻 My main operating systems: NixOS, Ubuntu 24.04, Win11
+- 👯 I’m looking to collaborate on my personal HackrsChat project!
+- 📫 How to reach me: My LinkedIn or email.
+- 🏎️ My hobbies: Watching F1 and playing racing games in my simrig! 
+- ⚡ Fun fact: I'm exactly 2 meters tall! (That's almost 6'7" for my freedom people out there)
+
 <!--
 **Arc891/Arc891** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
