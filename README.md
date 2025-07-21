@@ -24,15 +24,22 @@ DevOps Engineer by day☀️ and night🌙<br>
 ![NixOS](https://img.shields.io/badge/nixos-%2307405e.svg?style=for-the-badge&logo=nixos&logoColor=white) ![Debian](https://img.shields.io/badge/debian-%23A81D33.svg?style=for-the-badge&logo=debian&logoColor=white) ![Ubuntu](https://img.shields.io/badge/ubuntu-%23E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white) ![Arch](https://img.shields.io/badge/arch-%231793D1.svg?style=for-the-badge&logo=arch-linux&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Pi-Hole](https://img.shields.io/badge/pihole-%2396060C.svg?style=for-the-badge&logo=pi-hole&logoColor=white) 
 
 # 📊 GitHub Stats
-![](https://github-readme-stats-eight-black-99.vercel.app/api?username=Arc891&theme=github_dark&hide_border=false&count_private=true&show_icons=true&number_format=short&hide=contribs)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Arc891&theme=github_dark&hide_border=false)<br/>
-![](https://github-readme-stats-eight-black-99.vercel.app/api/top-langs?username=Arc891&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&hide_progress=true)
+<!-- ![](https://github-readme-stats-eight-black-99.vercel.app/api?username=Arc891&theme=aura&hide_border=false&count_private=true&show_icons=true&number_format=short&hide=contribs)<br/> 
+![](https://github-readme-stats-eight-black-99.vercel.app/api/top-langs?username=Arc891&theme=aura&hide_border=false&include_all_commits=true&count_private=true&hide_progress=true) -->
+<a href="https://github.com/arc891/github-readme-stats">
+  <img style="height: 190px" align="center" src="https://github-readme-stats-eight-black-99.vercel.app/api?username=Arc891&theme=aura&hide_border=false&count_private=true&show_icons=true&number_format=short&hide=contribs" />
+</a>
+<a href="https://github.com/arc891/github-readme-stats">
+  <img style="height: 190px" align="center" src="https://github-readme-stats-eight-black-99.vercel.app/api/top-langs?username=Arc891&theme=aura&hide_border=false&include_all_commits=true&count_private=true&langs_count=8&layout=compact" />
+</a>
+
+![](https://nirzak-streak-stats.vercel.app/?user=Arc891&theme=aura&hide_border=false)<br/>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Arc891&theme=github_dark&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Arc891&theme=aura&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 ## 💰 You can help me by Donating
