@@ -24,7 +24,7 @@ DevOps Engineer by day☀️ and night🌙<br>
 ![NixOS](https://img.shields.io/badge/nixos-%2307405e.svg?style=for-the-badge&logo=nixos&logoColor=white) ![Debian](https://img.shields.io/badge/debian-%23A81D33.svg?style=for-the-badge&logo=debian&logoColor=white) ![Ubuntu](https://img.shields.io/badge/ubuntu-%23E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white) ![Arch](https://img.shields.io/badge/arch-%231793D1.svg?style=for-the-badge&logo=arch-linux&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Pi-Hole](https://img.shields.io/badge/pihole-%2396060C.svg?style=for-the-badge&logo=pi-hole&logoColor=white) 
 
 # 📊 GitHub Stats
-![](https://github-readme-stats-eight-black-99.vercel.app/api?username=Arc891&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&show=prs_merged&show_icons=true&number_format=short)<br/>
+![](https://github-readme-stats-eight-black-99.vercel.app/api?username=Arc891&theme=github_dark&hide_border=false&count_private=true&show_icons=true&number_format=short&hide=contribs)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Arc891&theme=github_dark&hide_border=false)<br/>
 ![](https://github-readme-stats-eight-black-99.vercel.app/api/top-langs?username=Arc891&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&hide_progress=true)
 
